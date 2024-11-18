@@ -37,12 +37,30 @@ p {
 .evidenziato{
     background-color: yellow;
 }
+
 /*  TABELLA */
+
+table{
+    border-spacing: 0px;
+    margin: 10px;
+}
+
 
 .intestazione{
     color: aliceblue;
     background-color: dodgerblue;
-    
+}
+
+thead{
+    text-align: left
+}
+
+.DIstanzatable {
+    width: 10%;
+}
+
+.DIstanzatable2{
+    width: 20%;
 }
 
 /*  BODY */
