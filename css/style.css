@@ -14,20 +14,26 @@ header{
     width: 200px;
 }
 
-
-h1 {
-    font-size: 50px;
-
-} 
-
-h5{
-   line-height: 1px;
-} 
-
-h6{
-    line-height: 1px;
+h1{
+    width: 555px;
+    height: 30px;
 }
- 
+
+p {
+    height: 0px;
+} 
+
+
+.pScrittablu{
+    color: dodgerblue;
+
+}
+
+.scrittagrigia{
+    color: gray;
+}
+
+
 .evidenziato{
     background-color: yellow;
 }
@@ -36,19 +42,21 @@ h6{
 .intestazione{
     color: aliceblue;
     background-color: dodgerblue;
-    text-align: left;
+    
 }
 
 /*  BODY */
 .body{
+    
     background-color: aqua;
     text-align: left;
     height: 50px;
+    
    }
 
 .body2{
     height: 50px;
-    
+   
 }
 
 /*  Fine tabella */
@@ -59,7 +67,7 @@ h6{
 
 
 
-h4{
+.p{
     color: gray;
 }
 
