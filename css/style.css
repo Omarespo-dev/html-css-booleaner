@@ -31,3 +31,35 @@ h6{
 .evidenziato{
     background-color: yellow;
 }
+/*  TABELLA */
+
+.intestazione{
+    color: aliceblue;
+    background-color: dodgerblue;
+    text-align: left;
+}
+
+/*  BODY */
+.body{
+    background-color: aqua;
+    text-align: left;
+    height: 50px;
+   }
+
+.body2{
+    height: 50px;
+    
+}
+
+/*  Fine tabella */
+.tfoot{
+    background-color: aqua;
+    height: 50px;
+}
+
+
+
+h4{
+    color: gray;
+}
+
